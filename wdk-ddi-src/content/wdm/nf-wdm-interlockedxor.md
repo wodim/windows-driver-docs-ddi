@@ -46,7 +46,7 @@ req.typenames:
 ## -description
 
 
-The <b>InterlockedOr</b> routine atomically computes a bitwise exclusive OR operation.
+The <b>InterlockedXor</b> routine atomically computes a bitwise exclusive OR operation.
 
 
 ## -parameters
